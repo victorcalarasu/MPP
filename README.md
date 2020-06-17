@@ -1,5 +1,8 @@
 # MPP
 
+The application manages books, clients and rentals for a bookstore.
+
+
 Lab 2-4
 design the solution for your problem using a CASE tool (use cases, class diagram, sequence diagram for each use case)
 use feature driven development
