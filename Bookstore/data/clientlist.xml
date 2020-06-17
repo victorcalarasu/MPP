@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><clientlist>
+    
+<client><Id>2</Id><ID>2</ID><Name>Victor</Name><PhoneNumber>2313</PhoneNumber></client>
+    <client><Id>1</Id><ID>1</ID><Name>Branea</Name><PhoneNumber>222222</PhoneNumber></client>
+    <client><Id>3</Id><ID>3</ID><Name>Raducu</Name><PhoneNumber>222333</PhoneNumber></client></clientlist>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><buylist>
+    <buy>
+        <Id>1</Id>
+        <BuyID>1</BuyID>
+        <BookID>1</BookID>
+        <ClientID>1</ClientID>
+    </buy>
+<buy><Id>2</Id><BuyID>2</BuyID><BookID>1</BookID><ClientID>3</ClientID></buy></buylist>
